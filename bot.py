@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-token = 'NjcwODE0ODUyNTQwOTIzOTI1.Xi3Mnw.x4KzKajflnuFTOBjDrZ_ac-BLOk'
+token = 'NjcwODE0ODUyNTQwOTIzOTI1.XjcbmA.GxalyHDAf0Xw9cP2Ymr2TCAdr_k'
 file = "currenct.csv"
 client = commands.Bot(command_prefix = ".")
 
